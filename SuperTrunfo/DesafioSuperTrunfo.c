@@ -2,6 +2,7 @@
 
 // Programa:Super Trunfo.
 
+
 int main() {
     // Declaração de variáveis para a carta 1
     char estado1;
